@@ -34,3 +34,4 @@ Notes and usage details for frontend-projects.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
